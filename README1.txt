@@ -7,7 +7,7 @@ Assignment 1: The Basics
 Source files included with this assignment:
 a) cereal.cpp
 b) firecapacity.cpp
-b) employeepay.cpp
+c) employeepay.cpp
 
 Outside sources referenced for this assignment:
 a) Zybooks Ch. 1 & 2

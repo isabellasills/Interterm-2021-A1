@@ -1,3 +1,9 @@
+// Isabella Sills
+// 2343865
+// sills@chapman.edu
+// CPSC 298-09
+// Assignment 1: The Basics
+
 #include <iostream>
 
 using namespace std;
